@@ -14,10 +14,10 @@
     STIG-ID         : WN11-UR-000160
 
 .TESTED ON
-    Date(s) Tested  :
-    Tested By       :
-    Systems Tested  :
-    PowerShell Ver. :
+    Date(s) Tested  : 2026-09-08
+    Tested By       : Philip Zangara
+    Systems Tested  : Microsoft Windows 11 Pro 10.0.26200
+    PowerShell Ver. : 5.1
 
 .USAGE
     Put any usage instructions here.
