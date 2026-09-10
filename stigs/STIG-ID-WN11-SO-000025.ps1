@@ -21,7 +21,6 @@
 
 .USAGE
     Update $newGuestName below to a site-approved value before running (any name other than "Guest").
-    Example syntax:
     PS C:\> .\STIG-ID-WN11-SO-000025.ps1
 #>
 
